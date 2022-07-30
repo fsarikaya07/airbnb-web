@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+#container{
+    background-image: url("mountain.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#bar{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+
+
+}
+#right-bar{
+    
+}
+#mid-bar{
+    
+}
+#left-bar{
+
+ }
+
+ 
+ #search{
+    border: 3px solid white;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+ }
