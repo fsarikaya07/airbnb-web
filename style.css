@@ -116,3 +116,6 @@ body a{
     outline: solid;
     font-size:20px
 }
+label{
+    color: black;
+}
